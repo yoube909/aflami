@@ -335,7 +335,7 @@ body.minimize_siderbar .section_one_movieDetail {
 
 
 .light_darkmode {
-    background-image: url(./resources/icon-sun.svg);
+    background-image: url(icon-sun.svg);
     background-color: black;
     width: 35px;
     background-repeat: no-repeat;
@@ -373,7 +373,7 @@ body.minimize_siderbar .section_one_movieDetail {
     width: 72%;
     background-blend-mode: luminosity;
     background-color: #4784ff;
-    background-image: url(./resources/John-Wick-Wallpaper-removebg.png);
+    background-image: url(John-Wick-Wallpaper-removebg.png);
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -450,7 +450,7 @@ body.minimize_siderbar .section_one_movieDetail {
 
 .second_box {
     background-color: #4784ff;
-    background-image: url(./resources/Homelandeer1.png);
+    background-image: url(Homelandeer1.png);
     display: flex;
     flex-direction: column;
     gap: 2rem;
